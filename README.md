@@ -12,7 +12,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Jun27-max&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun27-max&layout=compact&theme=dracula)](https://github.com/Jun27-max?tab=repositories&q=&type=&language=&sort=)
+![](https://github-readme-stats.vercel.app/api?username=Jun27-max&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun27-max&layout=compact&theme=dracula)](https://github.com/Jun27-max?tab=repositories&q=&type=&language=&sort=)
 
 
 ### Languages and Tools:
