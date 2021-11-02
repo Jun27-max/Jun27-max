@@ -5,11 +5,11 @@
 
 
 
-[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorfernandes27/) [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/172448/junior-fernandes) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Junior18555834) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior.fernandes.7509/) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/junior27max#3375)
+[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorfernandes27/) [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/172448/junior-fernandes) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior.fernandes.7509/) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/junior27max#3375)
 
 
 
-![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun27-max&show_icons=true&theme=dracula) 
+![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun27-max&show_icons=true&theme=dracula) [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun27-max&layout=compact&theme=dracula)](https://github.com/Jun27-max?tab=repositories&q=&type=&language=&sort=)
 
 
 ### Languages and Tools:
