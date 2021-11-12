@@ -14,17 +14,30 @@
 
 ### Languages and Tools:
 <div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+    <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>    
+    <a href="https://www.oracle.com/java/technologies/javase-documentation.html" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="60" height="60"/>     
+    <a href="https://cran.r-project.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="60" height="60"/>
+    <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="60" height="60"/>
+    <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+    <a href="https://www.oracle.com/br/database/technologies/appdev/plsql.html" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/>
+    <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
+    <a href="https://ubuntu.com/download" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="60" height="60"/>
+    <a href="https://www.anaconda.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/>
+    <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="pycharm" width="60" height="60"/>
+    <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="60" height="60"/>
+    <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
 
 
 
