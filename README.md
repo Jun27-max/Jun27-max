@@ -1,6 +1,6 @@
 ###  Hi ! I´m Junior! Welcome to my GitHub 👋
 
-**Degree in Economics and Systems Analysis and Development, I recently migrated to the IT area, taking my first steps as an intern in DevOps. I was currently working as an Infrastructure Analyst aiming to consolidate myself in the area. Passionate about challenges.**
+**Graduated in Economics and Systems Analysis and Development, I recently migrated to the IT area, taking my first steps as an intern in DevOps. I was currently working as an Infrastructure Analyst aiming to consolidate myself in the area. Passionate about challenges.**
 
 
 
